@@ -427,13 +427,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-Configure Help Topics (For when users create a ticket)
-Admin Panel -> Manage -> Help Topics
-● Business Critical Outage
-● Personal Computer Issues
-● Equipment Request
-● Password Reset
-● Other
+
+<h3>Step 9: Configure Help Topics</h3>  
+
+**Set up the categories users select when submitting a ticket to ensure proper routing**
+
+- Path: Admin Panel -> Manage -> Help Topics
+- Task: Add topics for:
+  
+  1.  Business Critical Outage
+  2.  Personal Computer Issues
+  3.  Equipment Request
+  4.  Password Reset
+  5.  Other
 </p>
 <br />
 
