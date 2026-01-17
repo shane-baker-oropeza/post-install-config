@@ -19,6 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
+- Differentiate between Admin Panel and Agent Panel
 - Configure Roles
 - Configure Departments
 - Configure Teams
@@ -29,13 +30,46 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+<h3>Step 1: Distinguish Agent Panel vs. Admin Panel</h3>
+
+**Understand the difference between the two interfaces** 
+
+- The Admin Panel is used for system-wide configuration, while the Agent Panel is where workers manage tickets and users. 
+- Action: Locate the toggle button or link to switch between panels.
+<br />
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
-Configure Roles (for grouping permissions)
-Admin Panel -> Agents -> Roles
-● Supreme Admin
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+
+<h3>Step 2: Configure Roles (Permission Grouping)</h3>  
+
+**Roles define what actions an agent can perform (e.g., delete tickets, edit threads)**
+
+- Path: Admin Panel -> Agents -> Roles
+- Task: Create a Supreme Admin role with all permissions enabled.
 
 </p>
 <br />
