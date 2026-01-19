@@ -30,6 +30,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+**You will need these 2 links in order to access osTicket for the lab**
+- Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
+- End Users osTicket URL: http://localhost/osTicket
+
+
 <h3>Step 1: Distinguish Agent Panel vs. Admin Panel</h3>
 
 **Understand the difference between the two interfaces** 
