@@ -34,6 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
 - End Users osTicket URL: http://localhost/osTicket
 
+**Remote desktop into your Windows 10 virtual machine and log into osTicket with the Admin link above**
+
 
 <h3>Step 1: Distinguish Agent Panel vs. Admin Panel</h3>
 
