@@ -432,37 +432,76 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="970" height="489" alt="Screenshot 2026-01-19 081559" src="https://github.com/user-attachments/assets/3548dc3a-9ead-47ff-947d-cb4e73d1eae4" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="984" height="694" alt="Screenshot 2026-01-19 081714" src="https://github.com/user-attachments/assets/fdf5edbf-1bfc-40e7-95f6-c61d08040eb2" />
+
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="986" height="697" alt="Screenshot 2026-01-19 081633" src="https://github.com/user-attachments/assets/9eb34df0-0683-4bbd-b65b-af325a2565a0" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="984" height="694" alt="Screenshot 2026-01-19 081714" src="https://github.com/user-attachments/assets/d7dbbb52-682f-452e-b8de-1dd9ee06c1b6" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="974" height="699" alt="Screenshot 2026-01-19 081753" src="https://github.com/user-attachments/assets/85cd83da-de37-45db-89c4-f6cdb6583d8d" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="984" height="694" alt="Screenshot 2026-01-19 081714" src="https://github.com/user-attachments/assets/d9727875-db2f-44fd-ac7e-49346892f572" />
+
 </p>
 <br />
-
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="983" height="706" alt="Screenshot 2026-01-19 082135" src="https://github.com/user-attachments/assets/bbdde669-6c5a-4b1b-afda-92339f4d8462" />
+
 </p>
 <br />
+
+<p>
+<img width="966" height="702" alt="Screenshot 2026-01-19 082219" src="https://github.com/user-attachments/assets/fa591bdc-36c9-4a3a-9aa2-65ff1b392781" />
+
+</p>
+<br />
+
+<p>
+<img width="990" height="701" alt="Screenshot 2026-01-19 082248" src="https://github.com/user-attachments/assets/350322b6-3e6b-4560-b721-e599a933c16c" />
+
+</p>
+<br />
+
+<p>
+<img width="975" height="691" alt="Screenshot 2026-01-19 082316" src="https://github.com/user-attachments/assets/06975cb3-0336-4cc6-b7ae-78eac7fa27f4" />
+
+</p>
+<br />
+
+<p>
+<img width="977" height="693" alt="Screenshot 2026-01-19 082339" src="https://github.com/user-attachments/assets/909af91f-f3a8-45c6-bf72-cdacb9dfb5bf" />
+
+</p>
+<br />
+
+<p>
+<img width="977" height="711" alt="Screenshot 2026-01-19 082356" src="https://github.com/user-attachments/assets/8831b500-1bf4-4cb6-adf0-8416b02788f3" />
+>
+</p>
+<br />
+
+
