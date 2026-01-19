@@ -281,77 +281,74 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="970" height="777" alt="Screenshot 2026-01-19 080116" src="https://github.com/user-attachments/assets/c14370bf-3466-455f-a95b-de888febbaaa" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="658" height="282" alt="Screenshot 2026-01-19 080127" src="https://github.com/user-attachments/assets/948193d1-a3ad-48b5-b762-0087f3c7f4a0" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="652" height="396" alt="Screenshot 2026-01-19 080147" src="https://github.com/user-attachments/assets/869b1f4e-b10e-4963-88af-17268717f9c2" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="977" height="603" alt="Screenshot 2026-01-19 080218" src="https://github.com/user-attachments/assets/6d7118c8-9864-4019-b901-7391d8b6dbd4" />
+
 </p>
 <br />
 
+<p>
+<img width="969" height="598" alt="Screenshot 2026-01-19 080327" src="https://github.com/user-attachments/assets/306a9093-94a2-4736-8a4e-93e62f30f315" />
 
-
+</p>
+<br />
 
 <p>
+<img width="974" height="464" alt="Screenshot 2026-01-19 080427" src="https://github.com/user-attachments/assets/ebec6750-dfeb-41c5-9a0b-97cfdafa9e66" />
+
+</p>
+<br />
 
 <h3>Step 7: Configure Users (Customers)</h3> 
 
 **Add the individuals who will be requesting help**
 
 - Path: Agent Panel -> Users -> Add New
-- Task: Create Karen and Ken.
+- Task: Create Karen
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="994" height="392" alt="Screenshot 2026-01-19 080638" src="https://github.com/user-attachments/assets/6b6782ba-a390-4d03-b2c4-62e52e6c3723" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="991" height="376" alt="Screenshot 2026-01-19 080651" src="https://github.com/user-attachments/assets/729d9d21-9841-4292-9fed-88b34994569e" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="660" height="402" alt="Screenshot 2026-01-19 080746" src="https://github.com/user-attachments/assets/99c3c60b-0ee7-448c-9478-80702c3a5d06" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="978" height="430" alt="Screenshot 2026-01-19 080802" src="https://github.com/user-attachments/assets/69ed316b-3013-4a88-888a-31a199d98c19" />
+
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-
-<p>
 
 <h3>Step 8: Configure Service Level Agreements (SLA)</h3>  
 
@@ -366,42 +363,58 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="987" height="851" alt="Screenshot 2026-01-19 080952" src="https://github.com/user-attachments/assets/5c04c520-2bf8-4d2c-82f2-2e71335431a6" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="981" height="486" alt="Screenshot 2026-01-19 081002" src="https://github.com/user-attachments/assets/e7a30698-4ce6-4ebb-90fa-7e6385d8ec16" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="992" height="376" alt="Screenshot 2026-01-19 081011" src="https://github.com/user-attachments/assets/536497c2-a22e-4fad-9fc9-7cbd001ed005" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="974" height="725" alt="Screenshot 2026-01-19 081059" src="https://github.com/user-attachments/assets/4fa23e61-7312-47b9-86ba-64a5255abfa1" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="981" height="434" alt="Screenshot 2026-01-19 081118" src="https://github.com/user-attachments/assets/ac9e8d09-3678-45fc-ba76-22fe2b60b8d1" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="981" height="719" alt="Screenshot 2026-01-19 081141" src="https://github.com/user-attachments/assets/ae070060-a669-46b3-a0ca-c78cb4c8d1d5" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="974" height="463" alt="Screenshot 2026-01-19 081257" src="https://github.com/user-attachments/assets/1798aff1-ceed-46d4-8786-56eef5fe55c5" />
+
 </p>
 <br />
 
+<p>
+<img width="978" height="726" alt="Screenshot 2026-01-19 081357" src="https://github.com/user-attachments/assets/a5404560-f70a-4c2f-a4b2-7a9a185870ac" />
+
+</p>
+<br />
 
 <p>
+<img width="975" height="483" alt="Screenshot 2026-01-19 081333" src="https://github.com/user-attachments/assets/dc1d2506-983d-4396-9c10-578da16c47ab" />
+
+</p>
+<br />
 
 <h3>Step 9: Configure Help Topics</h3>  
 
